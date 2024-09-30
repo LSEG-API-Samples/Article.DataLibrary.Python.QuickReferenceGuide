@@ -1,13 +1,18 @@
 # [The Data Library for Python  - Quick Reference Guide (Access layer)](https://developers.lseg.com/en/article-catalog/article/the-data-library-for-python-quick-reference-guide-access-layer)
 This is a quick reference guide for the Data Library for Python on different asset types
 
-If you’re new to the library, a shallow dive into LSEG APIs landscape, including the introduction to data library can be found in article Summary of Common LSEG Refinitiv APIs 
+If you’re new to the library, a shallow dive into LSEG APIs landscape, including the introduction to data library can be found in article [Summary of Common LSEG Refinitiv APIs](https://developers.lseg.com/en/article-catalog/article/summary-of-common-lseg-refinitiv-apis)
 
-How to use the Data Library 
-Where to go to figure out the available fields that I can access using the Refinitiv Data Libraries (such as the RD Python Library)?
-In this article, we are focusing on using the access layer, which is the easiest way to get data. It provides simple interfaces allowing you to rapidly prototype solutions within interactive environments such as Jupyter Notebooks. It has been designed for quick experimentation with our data and for Financial Coders specific needs. (To learn more about Data Library for Python’s layers: example codes can be found here)
+- [How to use the Data Library](https://developers.lseg.com/en/article-catalog/article/summary-of-common-lseg-refinitiv-apis#HowtousetheRDPythonLibrary)
+- [Where to go to figure out the available fields that I can access using the Refinitiv Data Libraries (such as the RD Python Library)?](https://developers.lseg.com/en/article-catalog/article/summary-of-common-lseg-refinitiv-apis#WheretogotofigureouttheavailablefieldsthatIcanaccessusingRDP)
 
-![image](https://github.com/LSEG-API-Samples/Article.RD.Python.QuickReferenceGuide/assets/89068039/5c32e72a-69b2-410a-a19e-f02b48c7ee41)
+_Please note that the data library in Codebook is the version 1 (Refinitiv Data Library). It will be upgraded to the newer version, version 2 - LSEG Data Library soon._
+
+- _After the rebranding and release of LSEG Data Library 2.0, the Refinitiv Data Library will become " Feature Complete", but we will continue to support it and provide maintenance releases. This is essential for customers who cannot migrate to the LSEG Data Library 2.0. However, new features will only be added to the LSEG data library._
+
+In this article, we are focusing on using the access layer, which is the easiest way to get data. It provides simple interfaces allowing you to rapidly prototype solutions within interactive environments such as Jupyter Notebooks. It has been designed for quick experimentation with our data and for Financial Coders specific needs. (To learn more about Data Library for Python’s layers: [example codes can be found here](https://github.com/LSEG-API-Samples/Example.DataLibrary.Python/tree/lseg-data-examples/Examples))
+
+![ld-lib-sessions](https://github.com/user-attachments/assets/443fd469-8314-45ff-b59d-a001d689e435)
 
 Table of contents
 Here’s what included in this quick reference guide.
